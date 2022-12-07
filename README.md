@@ -28,3 +28,11 @@ Hola, mi nombre es Keymi Mejias 🚀estoy en el primer año de Ingeniería de In
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+Ejercicio:
+
+Comparación de 2 string:
+Lo que hace el ejercicio es comparar letrar por letrar de cada string para saber su alguna palabra estan en otra.
+
+Arrays con letras contiguas:
+Este ejercicio lo que hace es extraer las letra contiguas el cual vamos a guardar en un array de array.
