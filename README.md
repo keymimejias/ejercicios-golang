@@ -52,7 +52,7 @@ En este ejercicios lo que realiza es que de 2 arrays uno que presenta las semill
 
 * Terminal: Una terminal es un programa cuyo objetivo principal es leer comandos y ejecutarlos.
 
-*GitHub: Es un sitio "social coding". Te permite subir repositorios de código para almacenarlo en el sistema de control de versiones Git.
+* GitHub: Es un sitio "social coding". Te permite subir repositorios de código para almacenarlo en el sistema de control de versiones Git.
 
 1- Instalar git en el computador.
 
