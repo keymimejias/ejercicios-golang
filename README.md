@@ -52,11 +52,17 @@ Herramientas que utilizamos:
 *GitHub: Es un sitio "social coding". Te permite subir repositorios de código para almacenarlo en el sistema de control de versiones Git.
 
 1- Instalar git en el computador.
+
 2- Crear una carpeta con tu proyecto.
+
 3- Utilizar los comando de git en la terminal para crear el repositorio tales como (init, add, che, branch, checkout, status, commit
 )
 4- Crear una cuenta en GitHub.
+
 5- Edite mi perfil.
+
 6- Cree un nuevo repositorio, el cual confugure el nombre el tipo si es publi o privado.
+
 7- Subi los archivos desde la consola con Git.
+
 8- despues agrege el Readme el cual nos permite una presentacion de nuestro proyecto.
