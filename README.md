@@ -29,7 +29,7 @@ Hola, mi nombre es Keymi Mejias 🚀estoy en el primer año de Ingeniería de In
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-Función de los ejercicios en Golang:
+**Función de los ejercicios en Golang:**
 
 1 -Comparación de 2 string:
 Lo que hace el ejercicio es comparar letra por letra de cada string para saber su alguna palabra están en otra.
@@ -44,9 +44,9 @@ Este ejercicio lo que hace es extraer las letra contiguas el cual vamos a guarda
 4- Semilla de un arrays:
 En este ejercicios lo que realiza es que de 2 arrays uno que presenta las semilla, y el otro la semillas que se puede general semillas.
 
-Proceso para subir los archivos a GITHUB:
+**Proceso para subir los archivos a GITHUB:**
 
-Herramientas que utilizamos:
+**Herramientas que utilizamos:**
 
 * Git: Es sistema de control de versiones.
 
