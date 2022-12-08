@@ -29,10 +29,10 @@ Hola, mi nombre es Keymi Mejias 🚀estoy en el primer año de Ingeniería de In
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-Lo que hace los Ejercicio:
+Función de los ejercicios en Golang:
 
 1 -Comparación de 2 string:
-Lo que hace el ejercicio es comparar letrar por letrar de cada string para saber su alguna palabra estan en otra.
+Lo que hace el ejercicio es comparar letra por letra de cada string para saber su alguna palabra están en otra.
 
 2- Func Palindrome con un string:
 En este ejercicio vamos a verificar si una palabra es palidrome o no. 
@@ -61,8 +61,8 @@ Herramientas que utilizamos:
 
 5- Edite mi perfil.
 
-6- Cree un nuevo repositorio, el cual confugure el nombre el tipo si es publi o privado.
+6- Cree un nuevo repositorio, el cual configure el nombre el tipo si es publica o privado.
 
-7- Subi los archivos desde la consola con Git.
+7- Subir los archivos desde la consola con Git.
 
-8- despues agrege el Readme el cual nos permite una presentacion de nuestro proyecto.
+8- Después agregue el Readme el cual nos permite una presentación de nuestro proyecto.
